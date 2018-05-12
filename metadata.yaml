@@ -18,6 +18,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
     - http://en.wikipedia.org/wiki/Théophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33157#Voyage-en-Espagne
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2010-07-14'
 gutenberg_type: Text
